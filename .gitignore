@@ -1,0 +1,11 @@
+**/venv/
+**/env/
+**/.venv/
+data/
+final_reports/
+reports-docs/
+report/
+reports/
+summary/
+archive/
+summary_generator.py
