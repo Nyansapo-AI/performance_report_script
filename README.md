@@ -130,6 +130,12 @@ Generates comprehensive Word document reports from summary CSV files.
 python generate_summaries.py
 ```
 
+### Generate graphs
+
+```bash
+python generate_graphs.py
+```
+
 ### Generate Reports
 
 ```bash
